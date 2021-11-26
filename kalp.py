@@ -16,3 +16,6 @@ turtle.circle(50*size,200)
 turtle.forward(133*size)
 turtle.end_fill()
 turtle.sleep(6)
+
+
+///Fhewn tarafında yapılmıştır.////
